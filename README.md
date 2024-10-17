@@ -1,2 +1,2 @@
-# testpro
+# my first repository
 test
